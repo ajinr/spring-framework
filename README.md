@@ -19,7 +19,7 @@ The Spring Framework maintains reference documentation ([published](https://docs
 
 ## Micro-Benchmarks
 
-See the [Micro-Benchmarks](https://github.com/spring-projects/spring-framework/wiki/Micro-Benchmarks) Wiki page.
+See the [Micro-Benchmarks](https://github.com/spring-projects/spring-framework/wiki/Micro-Benchmarks) Wiki page!.
 
 ## Build from Source
 
